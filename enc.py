@@ -4,4 +4,4 @@
 
 import os
 import enc
-enc.loging()
+enc.login()
